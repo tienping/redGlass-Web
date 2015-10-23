@@ -1,0 +1,59 @@
+body {
+	height: 1024px;
+	width: 600px;
+	background-color: #404041;
+}
+
+footer {
+	height: 24px;;
+	width: 100%;
+	background-color: #CCF;
+	border-top: solid red 4px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+footer p.powered {
+    font-weight: bold;
+	text-align: center;
+    line-height: 160%;
+	color: red;
+	bottom: 0;
+	margin: 0;
+}
+
+ul  {
+	height: 100%;
+	width: 100%;
+}
+
+div.content-body  {
+	padding: 12px;
+	height: 100%;
+	width: 100%;
+}
+
+.content-body img {
+	height: 100%;
+	width: 100%;
+}
+
+div.content-footer {
+	padding: 0% 2% 2% 2%;
+	height: 20%;
+	width: 100%;
+}
+
+.content-footer img {
+	height: 100%;
+	width: 100%;
+}
+
+div.hidden {
+	display: none; important
+}
+
+.small-font {
+	font-size: x-small;
+}
